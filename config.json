@@ -1,0 +1,9 @@
+{
+	"ip":"DiscoverCraft.aternos.me",
+	"port": "23493",
+	"name": "DiscoverCraft",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
